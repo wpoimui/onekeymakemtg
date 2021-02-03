@@ -7,7 +7,7 @@
    
 下载安装:
 ```bash
-wget -N --no-check-certificate https://github.com/fengyin1234/onekeymakemtg/raw/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
+wget -N --no-check-certificate https://github.com/wpoimui/onekeymakemtg/raw/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
 ```
 
 > 配置文件在 `/usr/local/mtproxy-go/mtproxy.conf` ，可以手动修改，配置项详细介绍参见 [mtg 文档](https://github.com/9seconds/mtg#environment-variables)
